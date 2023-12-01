@@ -14,8 +14,8 @@ Apply terraform infrastucture for GCP
 
 Apply Pod and Service
 
-`kubectl apply -f fraud-app.yaml``
-`
+`kubectl apply -f fraud-app.yaml`
+
 `kubectl apply -f fraud-service.yaml`
 
 ## Predict
